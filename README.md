@@ -12,4 +12,4 @@ AI engineer and founder in New York. I build LLM products end to end, from model
 
 **Stack:** Python · TypeScript / Next.js · Swift / SwiftUI · Claude API · AWS (Lambda, Textract, Cognito, S3) · SQL (Snowflake, BigQuery, dbt)
 
-📫 [LinkedIn](https://www.linkedin.com/in/gautam-kapoor-b69b17220) · [splitnshare.ai](https://splitnshare.ai)
+📫 [gautamkapoor.com](https://gautamkapoor.com) · [LinkedIn](https://www.linkedin.com/in/gautam-kapoor-b69b17220) · [splitnshare.ai](https://splitnshare.ai)
